@@ -32,8 +32,8 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 ### PROGRAM
 
 ```
-# Reg.No: 212223060220
-# Name: Rakshitha M
+# Reg.No: 212223060239
+# Name: SANDHIYA G
 OPERATORS=set(['*','+']) 
 
 
